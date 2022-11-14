@@ -1,0 +1,33 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+section {
+    padding: 3%;
+    padding-bottom: 0;
+    width: 100%;
+}
+
+section h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding: 1% 0;
+    width: 100%;
+}
+
+.weapon-container {
+    width: 80%;
+}
+
+.weapon-image {
+    width: 30%;
+}
+
+.weapon-description {
+    width: 67%;
+    float: right;
+    padding-left: 3%;
+}
